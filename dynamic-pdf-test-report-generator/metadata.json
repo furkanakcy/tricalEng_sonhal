@@ -1,0 +1,5 @@
+{
+  "name": "Dynamic PDF Test Report Generator",
+  "description": "An application to generate a multi-page technical test report PDF based on user-provided data. The template is a high-fidelity replica of a SZUTEST Deney Laboratuvarı report, built with React and Tailwind CSS.",
+  "requestFramePermissions": []
+}
